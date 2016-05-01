@@ -34,6 +34,10 @@ body > .navbar-transparent .navbar-nav > .open > a {
 	margin-top: 1em;
 }
 
+.original-document{
+	color:red;
+}
+
 .sub-nav{
 	padding-left: 25px;
 }
@@ -164,6 +168,9 @@ footer p {
 #banner {
 	text-align: center; margin-bottom: 2em;
 }
+
+
+
 
 
 }
